@@ -2,6 +2,9 @@
 
 I'm Andrew Caetano, administrator, Full-Stack programmer and nerd and passionate about technology and card games.
 
+![Caetano GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrinho64&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrinho64&layout=compact)
+
 ## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrodriguescaetano/)
@@ -65,8 +68,6 @@ I'm Andrew Caetano, administrator, Full-Stack programmer and nerd and passionate
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-
-![Caetano GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrinho64&show_icons=true&theme=highcontrast)
 
 <!--
 **Andrinho64/Andrinho64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
