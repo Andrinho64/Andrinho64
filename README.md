@@ -3,7 +3,8 @@
 I'm Andrew Caetano, administrator, Full-Stack programmer and nerd and passionate about technology and card games.
 
 ![Caetano GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrinho64&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrinho64&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrinho64&layout=compact&theme=dark&card_width=445)
+
 
 ## Social Media
 
