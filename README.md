@@ -3,8 +3,8 @@
 I'm Andrew Caetano, administrator, Full-Stack programmer and nerd and passionate about technology and card games.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andrinho64&show_icons=true&hide_border=true&theme=highcontrast" alt="Caetano GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrinho64&layout=compact&hide_border=true&theme=highcontrast" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=andrinho64&show_icons=true&theme=highcontrast" alt="Andrew GitHub stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrinho64&layout=compact&theme=highcontrast" alt="Andrew top langs"/>
 </div>
 
 ## Social Media
